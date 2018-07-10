@@ -1,0 +1,1 @@
+ansible-playbook ./playbooks/configuration.yml -i hosts -b -K
